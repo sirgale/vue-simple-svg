@@ -19,6 +19,7 @@ require('reset.css')
 const svgFiles = ['ufo.svg', 'dinosaur.svg', 'robot.svg']
 //const svgFiles = ['kron.svg', 'kron4.svg', 'CI.svg']  // предлагаю работать через эти файлы (чисто для Space, для проверки)
 //const svgFiles = ['kron.svg', 'kron4.svg', 'CI.svg']  // все это можно удалить
+//const svgFiles = ['kron.pas', 'kron4.pas', 'CI.pas']  // не только можно, но и нужно
 
 
 export default {
