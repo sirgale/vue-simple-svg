@@ -17,7 +17,9 @@ import SvgButton from './components/SvgButton'
 import ChangeSrcButton from './components/ChangeSrcButton'
 require('reset.css')
 const svgFiles = ['ufo.svg', 'dinosaur.svg', 'robot.svg']
-const svgFiles = ['kron.svg', 'kron4.svg', 'CI.svg']  // предлагаю работать через эти файлы (чисто для Space, для проверки)
+//const svgFiles = ['kron.svg', 'kron4.svg', 'CI.svg']  // предлагаю работать через эти файлы (чисто для Space, для проверки)
+//const svgFiles = ['kron.svg', 'kron4.svg', 'CI.svg']  // все это можно удалить
+
 
 export default {
   name: 'app',
